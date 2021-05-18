@@ -5,8 +5,11 @@ PyToolkit is
 
 Tools already included:
   > Standard/Scientific Calculator
+  
   > Unit Convertor
+
   > Password Generator
+  
   > To-Do List Maker
 
 
