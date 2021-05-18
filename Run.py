@@ -25,7 +25,7 @@ m2["menu"] = m2.menu
 
 # Accesses the Apps folder and loads available apps
 mydir = getcwd()
-mydir_new = chdir(mydir+"\\Apps")
+mydir_new = chdir(mydir+"\\Tools")
 for file in listdir():
     f = open(file, 'r')
     m2.menu.add_command(label = f.readline()[2:], command = lambda c = file: system(c))
