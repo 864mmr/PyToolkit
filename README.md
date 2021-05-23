@@ -1,5 +1,5 @@
 # PyToolkit
-A set of handy tools programed in Python. 
+A set of handy tools programed in Python. <br/>
 NOTE: An active python installation is required to run this program. Get it from [Here](https://www.python.org/downloads/)
 
 # Instructions (Usage)
@@ -8,7 +8,7 @@ directory as "Run.py".
 
 # Instructions (Modifying) 
 New tools can be added by simply adding the corresponding (.py) file to the "Tools" folder. 
-Make sure that the first line of the file is a short description comment. Example: "# (Description here)"
+Make sure that the first line of the file is a short description comment. Example: "# (Description here)".
 This description will show up in the drop down menu when "Run.py" is run.
 
 # Tools included
@@ -29,6 +29,6 @@ This description will show up in the drop down menu when "Run.py" is run.
     
 * __To-Do List Maker__
     Made by referring to the tutorial by [TokyoEdtech](https://www.youtube.com/watch?v=OAHLwtmdqUk).
-    Changes include UI redesign, and an "Export" feature that allows user to save their tasks to a text file.
+    Changes include UI redesign, and an "Export" feature that allows user to save their tasks to a text file. <br/>
     NOTE: Tasks can be deleted one at a time by selecting the task and then clicking delete.
           Oldest task is deleted by default if selection is not made.
