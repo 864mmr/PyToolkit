@@ -1,6 +1,6 @@
 # PyToolkit
 A set of handy tools programed in Python. <br/>
-NOTE: An active python installation is required to run this program. Get it from [Here](https://www.python.org/downloads/)
+NOTE: An active python installation is required to run this program. Get it from [Here](https://www.python.org/downloads/).
 
 # Instructions (Usage)
 To run the program, simply run "Run.py". Make sure the "Tools" folder is in the same
